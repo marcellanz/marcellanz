@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an engineer working currently as a System & Software Architect.
+I'm an engineer working currently as a [System & Software Architect](https://www.linkedin.com/in/marcellanz/).
 
 My background and interests span from working and building distributed systems in the telecommunications, insurance, healthcare and fintech area.
 
