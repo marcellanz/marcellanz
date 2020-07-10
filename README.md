@@ -4,7 +4,7 @@ I'm an engineer working currently as a [System & Software Architect](https://www
 
 My background and interests span from working and building distributed systems in the telecommunications, insurance, healthcare and fintech area.
 
-I started to work on the server side (UNIX, Linux) and embedded realtime systems in software (C/C++) and hardware (ARM) the I moved to a more business-oriented space over the years discovering the world of JAVA(EE), leading teams and projects and all sorts of "Business Process Management" systems and technology.
+I started to work on the server side (UNIX, Linux) and embedded realtime systems in software (C/C++) and hardware (ARM) then I moved to a more business-oriented space over the years discovering the world of JAVA(EE), leading teams and projects and all sorts of "Business Process Management" systems and technology.
 
 Since my natural curiosity to understand how things work, I never lost my connection to operating systems design and all things about distributed systems.
 
